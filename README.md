@@ -6,3 +6,9 @@
 4. Learners understand what a logic gate is. (AND OR NOT XOR)
 5. Learners can recognise and draw Truth tables for these logic gates.
 6. Learners understand the difference between a logical operator and a relational operator.
+
+
+
+### Binary Bingo
+- Online or print. Link to edit:  mfbc.us/e/kvtv3a
+
